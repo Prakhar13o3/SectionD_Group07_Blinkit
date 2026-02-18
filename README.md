@@ -32,6 +32,10 @@ Dynamic UI: Integrated Slicers to allow users to filter data by item type or loc
 
 
 
+
+
+
+
             Sales Performance Executive Summary 
 1. High-Level Performance
 Total Revenue: ₹1,201,681 (approx. ₹12 Lakhs) across 8,523 items sold.
