@@ -183,3 +183,5 @@ Functionality:
 
 Highlights the optimal expansion strategy of medium-sized outlets in Tier 3 cities, compares historical store cohorts, and demonstrates that Tier 3 cities outperform Tier 1 by nearly 40% in revenue efficiency.
 
+##CLEANED DATASET FILE 
+<img width="1606" height="901" alt="Cleaned_data" src="https://github.com/user-attachments/assets/86ea91f9-b459-42f5-8aa6-b648378bfe27" />
