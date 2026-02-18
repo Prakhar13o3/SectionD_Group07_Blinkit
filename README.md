@@ -1,7 +1,7 @@
 ##  Project Overview
 This project transforms raw retail data from Blinkit into a strategic decision-making tool. By analyzing 8,500+ items across various outlet tiers and sizes, the study identifies key revenue drivers, optimizes digital shelf space (visibility), and evaluates the impact of outlet maturity on total sales.
 
-Data Dictionary
+## Data Dictionary
 1. Item_Fat_Content: Level of fat (Standardized: Low Fat, Regular).
 2. Item_Identifier: Unique ID assigned to each product.
 3. Item_Type: Category of the product (e.g., Snacks, Fruits).
@@ -17,7 +17,7 @@ Data Dictionary
 13. Outlet_Age: [Calculated Column] Years of operation since establishment.
 14. Visibility Efficiency: [Calculated Metric] Ratio of Sales to Visibility
 
-Data Cleaning & Transformation
+## Data Cleaning & Transformation
 
 1. Standardization of Fat Content Labels: Inconsistent naming conventions for Item_Fat_Content were unified. Labels like low fat and LF were converted to Low Fat, while reg was converted to Regular to ensure accurate grouping during analysis.
 
