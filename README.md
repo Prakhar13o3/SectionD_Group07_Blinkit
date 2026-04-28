@@ -41,7 +41,7 @@ The Item_Visibility column contained several zero values, which is logically imp
 
 A new column was created by subtracting the Outlet_Establishment_Year from the current reporting year (2026). This enables tracking of revenue growth based on store maturity rather than calendar years.
 
-### Adding the Visibility Efficiency Metric
+### Adding the Visibility Efficiency Metrics
 
 A custom calculated column was created by dividing Total Sales by Item_Visibility.
 
